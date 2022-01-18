@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Aluraflix - dia 5</title>
+  <title>Mentalista</title>
   <link rel="stylesheet" href="./style.css">
 
 </head>
@@ -14,32 +14,32 @@
 
   <head>
     <title>
-      Imersão Dev - Aula 05
+      Imersão Dev - Aula 03
     </title>
   </head>
 
   <body>
     <div class="container">
       <h1 class="page-title">
-        Aluraflix
+        Mentalista
       </h1>
-      <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" class="page-logo"
-        alt="">
+      <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-mentalista.svg" class="page-logo"
+        alt=""><br>
       <p class="page-subtitle">
-        Qual seu filme favorito?
+        Digite um número de 0 a 10, para adivinhar o numero secreto.
       </p>
-      <div class="form-wrapper">
-        <input type="text" id="filme" name="filme" placeholder="Insira endereço de imagem">
-        <button onClick="adicionarFilme()">Adicionar Filme</button>
-      </div>
+      <input type="number" id="valor" /><br>
+      <button type="submit" onclick="Chutar()">Chutar</button>
+      <h2 class="resultado" id="resultado"></h2>
     </div>
-    <div id="listaFilmes"></div>
     <a href="https://alura.com.br/" target="_blank">
       <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
     </a>
+    <script src="app.js"></script>
   </body>
 
   </html>
+
   <script src="./script.js"></script>
 
 </body>

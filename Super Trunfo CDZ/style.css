@@ -25,6 +25,7 @@ button, .button-jogar {
     border-radius: 5px;
     border: none;
     font-size: 1rem;
+    background-color: burlywood;
 }
 
 h2 {
@@ -59,8 +60,8 @@ h2 {
 }
 
 .carta-imagem img {
-    width: 100%;
-    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 .carta-status {

@@ -1,37 +1,25 @@
-![Logo of the project](http://logo_link)
+![Logo of the project](https://github.com/ThiagoMendes92/ImersaoDev-Alura/blob/main/readme_images/imersaodev.png)
  
-## Name_of_the_project
+## ImersãoDev-Alura
  
-... Description
- 
- 
-## Technology 
- 
-Here are the technologies used in this project.
- 
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
+Introdução ao JS com ImersãoDev, varios pequenos projetos criados durante as aulas da ImersãoDev oferecido pela Alura.
  
  
-## Services Used
+## Tecnologia 
+ 
+Aqui estão as tecnologias usadas neste projeto.
+ 
+* JavaScript
+* CSS
+* HTML
+ 
+ 
+## Serviços Usados
  
 * Github
-* ...
  
  
-## Ruby Gems
-...
- 
-## Getting started
- 
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
- 
+
 ## How to use
  
 Here will be the images and descriptions. Principal content.
@@ -51,15 +39,11 @@ Here will be the images and descriptions. Principal content.
       to improve the security and privacy of this project!
  
  
-## Versioning
+
+## Autor
  
-1.0.0.0
- 
- 
-## Authors
- 
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
+* **Thiago Mendes**: @ThiagoMendes92 (https://github.com/ThiagoMendes92)
  
  
-Please follow github and join us!
-Thanks to visiting me and good coding!
+Por favor, siga meu github e junte-se a nós!
+Obrigado por me visitar e boa codificação!

@@ -22,22 +22,28 @@ Aqui estão as tecnologias usadas neste projeto.
 
 ## Imagens
  
-* Aluraflix - Filmes
+* **Aluraflix - Filmes**
+
 ![Logo1](https://github.com/ThiagoMendes92/ImersaoDev-Alura/blob/main/readme_images/aluraflixv1.png)
 
-* Calculadora de Media
+* **Calculadora de Media**
+
 ![Logo2](https://github.com/ThiagoMendes92/ImersaoDev-Alura/blob/main/readme_images/calculadormedia.png)
 
-* Conversor de Moedas
+* **Conversor de Moedas**
+
 ![Logo3](https://github.com/ThiagoMendes92/ImersaoDev-Alura/blob/main/readme_images/conversordolar.png)
 
-* Jogo Mentalista - Sorteador de Numeros
+* **Jogo Mentalista - Sorteador de Numeros**
+
 ![Logo4](https://github.com/ThiagoMendes92/ImersaoDev-Alura/blob/main/readme_images/jogomentalista.png)
 
-* Super Trunfo CDZ
+* **Super Trunfo CDZ**
+
 ![Logo5](https://github.com/ThiagoMendes92/ImersaoDev-Alura/blob/main/readme_images/supertrunfocdz.png)
 
-* Tabela de Classificação
+* **Tabela de Classificação**
+
 ![Logo6](https://github.com/ThiagoMendes92/ImersaoDev-Alura/blob/main/readme_images/tabelaclassificacao.png)
 
 
